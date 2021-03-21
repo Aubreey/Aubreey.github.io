@@ -1,0 +1,18 @@
+p {
+    color:red;
+    font-size: 22px; /*可以只打FS找字的SIZE*/
+
+}
+h1{
+    color: blue;
+}
+h1{
+    color: red
+}    
+    
+#my-heading{font-size: 50px;}
+
+/*用小數點開始選擇器*/
+.color-gary{
+    color:gray;
+}
